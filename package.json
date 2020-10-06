@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MichaelThomas0721/DiscordBot.git"
+  },
+  "author": "Michael Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelThomas0721/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/MichaelThomas0721/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
